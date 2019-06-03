@@ -1,0 +1,9 @@
+# Alle Knoten
+Krefeld
+Berlin
+Aachen
+# Alle Kanten
+ad sdf 234
+Krefeld Berlin 20
+Berlin Aachen 50
+#ende

@@ -1,0 +1,12 @@
+# Alle Knoten
+Koeln
+Test
+Krefeld
+Hamburg
+Wegberg
+Berlin
+Bochum
+# Alle Kanten
+Hamburg Berlin 50
+Koeln Berlin 77
+#ende

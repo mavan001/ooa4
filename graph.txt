@@ -1,0 +1,10 @@
+digraph{
+
+	"Krefeld"    [color=red]
+	"Berlin"    [color=blue]
+	"Aachen"    [color=red]
+
+
+	"Krefeld"    -> "Berlin"    [label=20];
+	"Berlin"    -> "Aachen"    [label=50];
+}
